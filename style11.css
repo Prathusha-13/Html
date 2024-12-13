@@ -1,0 +1,15 @@
+.box{
+    height: 100px;
+    width: 100px;
+    font-size: 10vh;
+    background-color:greenyellow;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+.container{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 200px 100px 100px;
+    grid-template-rows: 200px 100px 100px;
+}
